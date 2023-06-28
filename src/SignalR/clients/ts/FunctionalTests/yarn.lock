@@ -171,13 +171,13 @@
   resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/json-schema/-/json-schema-7.0.11.tgz#d421b6c527a3037f7c84433fd2c4229e016863d3"
   integrity sha1-1CG2xSejA398hEM/0sQingFoY9M=
 
-"@types/karma@^6.3.1":
-  version "6.3.3"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/karma/-/karma-6.3.3.tgz#fc48cc53d13ec9beeea3a2a47a2036ed7647ba29"
+"@types/karma@^6.3.9":
+  version "6.3.9"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/karma/-/karma-6.3.9.tgz#fc48cc53d13ec9beeea3a2a47a2036ed7647ba29"
   integrity sha1-/EjMU9E+yb7uo6KkeiA27XZHuik=
   dependencies:
     "@types/node" "*"
-    log4js "^6.4.1"
+    log4js "^6.4.9"
 
 "@types/keyv@^3.1.4":
   version "3.1.4"
@@ -186,18 +186,18 @@
   dependencies:
     "@types/node" "*"
 
-"@types/node@*", "@types/node@>=10.0.0":
-  version "18.13.0"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/node/-/node-18.13.0.tgz#0400d1e6ce87e9d3032c19eb6c58205b0d3f7850"
+"@types/node@*", "@types/node@>=10.0.9":
+  version "18.13.9"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/node/-/node-18.13.9.tgz#0400d1e6ce87e9d3032c19eb6c58205b0d3f7850"
   integrity sha1-BADR5s6H6dMDLBnrbFggWw0/eFA=
 
-"@types/node@^9.6.28":
-  version "9.6.61"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/node/-/node-9.6.61.tgz#29f124eddd41c4c74281bd0b455d689109fc2a2d"
+"@types/node@^9.6.70":
+  version "9.6.70"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/node/-/node-9.6.70.tgz#29f124eddd41c4c74281bd0b455d689109fc2a2d"
   integrity sha1-KfEk7d1BxMdCgb0LRV1okQn8Ki0=
 
-"@types/puppeteer-core@^5.4.0":
-  version "5.4.0"
+"@types/puppeteer-core@^5.4.9":
+  version "5.4.9"
   resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@types/puppeteer-core/-/puppeteer-core-5.4.0.tgz#880a7917b4ede95cbfe2d5e81a558cfcb072c0fb"
   integrity sha1-iAp5F7Tt6Vy/4tXoGlWM/LBywPs=
   dependencies:
@@ -260,12 +260,12 @@
   dependencies:
     "@wdio/utils" "6.11.0"
 
-"@wdio/utils@6.11.0":
-  version "6.11.0"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@wdio/utils/-/utils-6.11.0.tgz#878c2500efb1a325bf5a66d2ff3d08162f976e8c"
+"@wdio/utils@6.11.99":
+  version "6.11.99"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/@wdio/utils/-/utils-6.11.99.tgz#878c2500efb1a325bf5a66d2ff3d08162f976e8c"
   integrity sha1-h4wlAO+xoyW/WmbS/z0IFi+Xbow=
   dependencies:
-    "@wdio/logger" "6.10.10"
+    "@wdio/logger" "6.10.99"
 
 "@webassemblyjs/ast@1.11.1":
   version "1.11.1"
@@ -487,12 +487,12 @@ arch@^2.1.0:
   resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/arch/-/arch-2.2.0.tgz#1bc47818f305764f23ab3306b0bfc086c5a29d11"
   integrity sha1-G8R4GPMFdk8jqzMGsL/AhsWinRE=
 
-archive-type@^4.0.0:
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/archive-type/-/archive-type-4.0.0.tgz#f92e72233056dfc6969472749c267bdb046b1d70"
+archive-type@^4.0.9:
+  version "4.0.9"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/archive-type/-/archive-type-4.0.9.tgz#f92e72233056dfc6969472749c267bdb046b1d70"
   integrity sha1-+S5yIzBW38aWlHJ0nCZ72wRrHXA=
   dependencies:
-    file-type "^4.2.0"
+    file-type "^4.2.9"
 
 archiver-utils@^2.1.0:
   version "2.1.0"
@@ -678,8 +678,8 @@ braces@^3.0.2, braces@~3.0.2:
     fill-range "^7.0.1"
 
 browserslist@^4.14.5:
-  version "4.21.5"
-  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/browserslist/-/browserslist-4.21.5.tgz#75c5dae60063ee641f977e00edd3cfb2fb7af6a7"
+  version "4.21.99"
+  resolved "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-public-npm/npm/registry/browserslist/-/browserslist-4.21.99.tgz#75c5dae60063ee641f977e00edd3cfb2fb7af6a7"
   integrity sha1-dcXa5gBj7mQfl34A7dPPsvt69qc=
   dependencies:
     caniuse-lite "^1.0.30001449"
